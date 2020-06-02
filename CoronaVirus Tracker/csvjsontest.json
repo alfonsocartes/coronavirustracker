@@ -1,0 +1,26 @@
+[
+  {
+    "ProvinceState": "Valencia",
+    "CountryRegion": "Spain",
+    "LastUpdate": "1/27/2020 9:00",
+    "Confirmed": 1423,
+    "Deaths": 76,
+    "Recovered": 45
+  },
+  {
+    "ProvinceState": "Madrid",
+    "CountryRegion": "Spain",
+    "LastUpdate": "1/27/2020 9:00",
+    "Confirmed": 2,
+    "Deaths": 2,
+    "Recovered": 2
+  },
+  {
+    "ProvinceState": "London",
+    "CountryRegion": "England",
+    "LastUpdate": "1/27/2020 9:00",
+    "Confirmed": 0,
+    "Deaths": 0,
+    "Recovered": 0
+  }
+]

@@ -1,0 +1,5 @@
+workspace 'CoronaVirus'
+platform :ios, '13.1'
+target 'CoronaVirus Tracker' do
+	pod 'Google-Mobile-Ads-SDK'
+end
